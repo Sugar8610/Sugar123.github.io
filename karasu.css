@@ -1000,6 +1000,8 @@ input:checked+.sliderSml:after {
     background-image: none;
     font-size: 0;
     animation: breathe 1s infinite alternate;
+    border:none;
+    background-color:transparent;
 }
 #reloadMsg::before {
     content: "reload";
