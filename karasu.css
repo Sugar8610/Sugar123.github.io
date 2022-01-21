@@ -1,3 +1,7 @@
+@font-face {
+	font-family: gamefont;
+	src: url(https://sugar8610.github.io/Sugar123.github.io/fonts/uzura.ttf);
+}
 :root{
     --bk:#000;
     --p:#a059f3;
